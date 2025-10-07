@@ -5,7 +5,21 @@ html {
   font-size: 15px;
 }
 
+body {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
 h1,
 h2 {
   font-family: 'Playfair Display', serif;
+}
+
+.white-section {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.header {
+    text-align: center;
 }
